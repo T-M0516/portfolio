@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Webデザイナー高根澤桃花のポートフォリオサイト" />
     <link rel="icon" href="<?php echo esc_url(get_theme_file_uri('./images/favicon01.ico')); ?>">
 
     <?php wp_head(); ?>
